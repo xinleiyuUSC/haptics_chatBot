@@ -11,7 +11,7 @@
 
 - Structure
   A simple explanation of the project
-  data folder: contains all pdfs related to haptics, where the local/customized database resides.
+  database folder: contains all pdfs related to haptics, where the local/customized database resides.
   Storage folder: contains stored index and context.
   demo.py: python script to drive the chatBot.
 
