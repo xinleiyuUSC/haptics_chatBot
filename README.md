@@ -20,7 +20,7 @@ git clone "this repo"
 ```
 
 - Contributions
-We appreciate and welcome all contributions to this project. To learn how to contribute, please take a look at the CONTRIBUTING.md file.
+  This project is inspired by [here](https://betterprogramming.pub/building-your-own-devsecops-knowledge-base-with-openai-langchain-and-llamaindex-b28cda15abb7).
 
 - License
 This project is licensed under the terms of the MIT license. Please have a look at LICENSE.md for more details.
