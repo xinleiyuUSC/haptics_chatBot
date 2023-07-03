@@ -1,4 +1,4 @@
-# haptics customized-chatBot
+# haptics customized-chatBotb (gpt-based)
 - Introduction
   Welcome to our Customized Chatbot project, a sophisticated, highly customizable, language-processing chatbot powered by the combined capabilities of OpenAI's GPT-4, LangChain, and LlamaIndex. This chatbot aims to provide engaging, interactive, and tailored conversational experiences, making it an ideal solution for customer support, automated assistants, and entertainment purposes.
 
